@@ -3,11 +3,11 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 
 ## 📃 Komponen yang Diperlukan
 1. [ Arduino UNO ](https://shope.ee/2LA9ZZRSl4?share_channel_code=2)
-3. [ Kabel Jumper Male to Female ](https://shope.ee/2LA9ZZRSl4?share_channel_code=2](https://shope.ee/5V7BLyRKg1?share_channel_code=2)
-4. [ LCD  ]([https://shope.ee/2LA9ZZRSl4?share_channel_code=2](https://shope.ee/20XJBdpQrD?share_channel_code=2))
+2. [Kabel Jumper Male to Female ](https://shope.ee/5V7BLyRKg1?share_channel_code=2)
+4. [ LCD ](https://shope.ee/20XJBdpQrD?share_channel_code=2)
 
 ## 📃 Software yang Digunakan
-1. [ Arduino IDE ](https://shope.ee/2LA9ZZRSl4?share_channel_code=2](https://www.arduino.cc/en/software)
+1. [ Arduino IDE (https://shope.ee/2LA9ZZRSl4?share_channel_code=2](https://www.arduino.cc/en/software)
 
 ## 🗺️ Skema Rangkaian
 
