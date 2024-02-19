@@ -15,7 +15,8 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 
 <details>
 <summary>1. Rangkai Alat seperti gambar berikut</summary>
-## Rangkaian
+
+### You can add a header
 
 ![Fantastic Jarv-Vihelmo (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/f5e8e3f7-fded-4d0d-9084-83b9bb0939e9)
 </details>
