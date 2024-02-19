@@ -10,7 +10,7 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 ## 📃 Software yang Digunakan
 1. [ Arduino IDE](https://www.arduino.cc/en/software)
 
-## Tahapan Pengerjaan
+## 📥 Tahapan Pengerjaan
 
 
 <details>
