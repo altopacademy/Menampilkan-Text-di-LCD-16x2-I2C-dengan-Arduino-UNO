@@ -51,3 +51,5 @@ void loop(){
   lcd.clear(); 
 }
 ```
+
+## 4. Upload Source Code yang sudah kamu tulis di Arduino IDE
