@@ -15,7 +15,7 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 
 <details>
 
-<summary>Rangkai Alat seperti gambar berikut</summary>
+<summary> ## Rangkai Alat seperti gambar berikut</summary>
 
 ### You can add a header
 
