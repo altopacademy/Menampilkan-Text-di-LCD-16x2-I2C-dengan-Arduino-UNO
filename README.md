@@ -14,7 +14,6 @@
 2. [Library LiquidCrystal_i2c](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE)
 
 ## 📥 Tahapan Pengerjaan
-[test](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/blob/6cd3d9145b19c6d2f813aea9fedcbbe3a8eb74fb/sketch.ino#L1C1-L35C2)
 
 
 <details>
