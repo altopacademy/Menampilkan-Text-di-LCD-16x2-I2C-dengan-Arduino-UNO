@@ -22,11 +22,17 @@
 
 <details>
 <summary>1️⃣ Rangkai Alat seperti gambar berikut</summary>
-
-
-
+| LCD I2C | Arduino UNO |
+| --- | --- |
+| VCC | 5V |
+| GND | GND |
+| SDA | A4 |
+| SCL | A5 |
+  
 ![Fantastic Jarv-Vihelmo (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/f5e8e3f7-fded-4d0d-9084-83b9bb0939e9)
 </details>
+
+
 
 <details>
 <summary>2️⃣ Mendapatkan Alamat i2c dari LCD</summary>
