@@ -1,6 +1,14 @@
-/*********
-  
-*********/
+/*
+    Menampilkan Text du LCD 16x2 i2c dengan Arduino UNO
+
+    Created 19 Februari 2024
+    By altopacademy
+
+    follow for more:
+    instagram : @altopacademy
+    tiktok    : @altopacademy
+
+*/
 
 #include <LiquidCrystal_I2C.h>
 
