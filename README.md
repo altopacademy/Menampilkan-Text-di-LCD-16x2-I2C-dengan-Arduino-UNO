@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary>3. Tulis Source Code nya di Arduino IDE</summary>
+<summary>3️⃣ Tulis Source Code nya di Arduino IDE</summary>
 
   ```C++
 #include <LiquidCrystal_I2C.h>
@@ -71,17 +71,4 @@ void loop(){
 
 ## 4. Upload Source Code yang sudah kamu tulis di Arduino IDE
 
-
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
 
