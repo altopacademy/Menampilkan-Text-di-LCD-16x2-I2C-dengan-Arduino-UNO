@@ -30,14 +30,10 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 4. Klik Open dan jika berhasil akan muncul tulisan " Library installed "
 </details>
 
+<details>
+<summary>3. Tulis Source Code nya di Arduino IDE</summary>
 
-
-## 2. Install Library LiquidCrystal_i2c
-
-
-
-## 3. Tulis Source Code nya di Arduino IDE
-```C++
+  ```C++
 #include <LiquidCrystal_I2C.h>
 // if you don't know your display address, run an I2C scanner sketch
 LiquidCrystal_I2C lcd(0x27, 16, 2);  
@@ -64,6 +60,12 @@ void loop(){
   lcd.clear(); 
 }
 ```
+
+</details>
+
+
+## 
+
 
 ## 4. Upload Source Code yang sudah kamu tulis di Arduino IDE
 
