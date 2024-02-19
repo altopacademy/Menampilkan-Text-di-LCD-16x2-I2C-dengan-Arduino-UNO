@@ -19,19 +19,9 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 
 ## 🗺️ Source Code
 ```C++
-/*********
-  
-*********/
-
 #include <LiquidCrystal_I2C.h>
-
-// set the LCD number of columns and rows
-int lcdColumns = 16;
-int lcdRows = 2;
-
-// set LCD address, number of columns and rows
 // if you don't know your display address, run an I2C scanner sketch
-LiquidCrystal_I2C lcd(0x27, lcdColumns, lcdRows);  
+LiquidCrystal_I2C lcd(0x27, 16, 2);  
 
 void setup(){
   // initialize LCD
