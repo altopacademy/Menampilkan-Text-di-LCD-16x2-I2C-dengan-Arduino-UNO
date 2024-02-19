@@ -5,6 +5,10 @@
 ![IMG_9481 3 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/1a4dbe98-996e-408d-8b85-d5447d4f5b11)
 
 ## 📃 Komponen yang Diperlukan
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 1. [ Arduino UNO ](https://shope.ee/2LA9ZZRSl4?share_channel_code=2)
 2. [Kabel Jumper Male to Female ](https://shope.ee/5V7BLyRKg1?share_channel_code=2)
 4. [ LCD ](https://shope.ee/20XJBdpQrD?share_channel_code=2)
