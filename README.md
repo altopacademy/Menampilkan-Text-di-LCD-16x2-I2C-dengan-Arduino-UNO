@@ -16,7 +16,7 @@
 
 
 <details>
-<summary>🔵 1. Rangkai Alat seperti gambar berikut</summary>
+<summary>1️⃣ Rangkai Alat seperti gambar berikut</summary>
 
 ### You can add a header
 
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>Install Library LiquidCrystal_i2c</summary>
+<summary>2️⃣ Install Library LiquidCrystal_i2c</summary>
   
 1. Download librari nya di [sini](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE)
   
