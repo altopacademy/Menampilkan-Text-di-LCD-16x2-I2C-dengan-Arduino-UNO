@@ -4,20 +4,20 @@
 
 ![IMG_9481 3 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/1a4dbe98-996e-408d-8b85-d5447d4f5b11)
 
-## 📃 Komponen yang Diperlukan
+## ⚙️ Komponen yang Diperlukan
 |No | Komponen | Jumlah | Deskripsi |
 | --- | --- | --- | --- |
 | 1 | Arduino UNO | 1 | [link](https://shope.ee/2LA9ZZRSl4?share_channel_code=2) |
 | 2 | Kabel JUmper Male to Female | 4 | [link](https://shope.ee/5V7BLyRKg1?share_channel_code=2) |
 | 3 | LCD 16x2 I2C | 1 | [link](https://shope.ee/20XJBdpQrD?share_channel_code=2) |
 
-## 📃 Software dan Librari yang digunakan
+## 💡 Software dan Librari yang digunakan
 |No | Komponen | Deskripsi |
 | --- | --- | --- |
 | 1 | Arduino IDE | [Download](https://www.arduino.cc/en/software) |
 | 2 | Librari LiquidCrystal_I2C | [Download](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE) |
 
-## 📥 Tahapan Pengerjaan
+## ⌛️ Tahapan Pengerjaan
 
 
 <details>
@@ -82,7 +82,7 @@ void loop() {
 
 
 <details>
-<summary>2️⃣ Install Library LiquidCrystal_i2c </summary>
+<summary>3️⃣ Install Library LiquidCrystal_i2c </summary>
 
 
 
@@ -95,7 +95,7 @@ void loop() {
 </details>
 
 <details>
-<summary>3️⃣ Tulis Kode Utama berikut di Arduino IDE</summary>
+<summary>4️⃣ Tulis Kode Utama berikut di Arduino IDE</summary>
 
   ```C++
 #include <LiquidCrystal_I2C.h>
@@ -121,14 +121,10 @@ void loop(){
 </details>
 
 <details>
-<summary>3️⃣ Upload Kode yang sudah kamu tulis di Arduino IDE</summary>
+<summary>5️⃣ Upload Kode yang sudah kamu tulis di Arduino IDE</summary>
 
 </details>
 
 
-## 
-
-
-## 4. Upload Source Code yang sudah kamu tulis di Arduino IDE
 
 
