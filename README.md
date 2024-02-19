@@ -17,9 +17,6 @@
 | 1 | Arduino IDE | [Download](https://www.arduino.cc/en/software) |
 | 2 | Librari LiquidCrystal_I2C | [Download](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE) |
 
-1. [ Arduino IDE](https://www.arduino.cc/en/software)
-2. [Library LiquidCrystal_i2c]()
-
 ## 📥 Tahapan Pengerjaan
 
 
