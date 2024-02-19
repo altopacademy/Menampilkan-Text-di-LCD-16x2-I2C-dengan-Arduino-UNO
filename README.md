@@ -18,13 +18,15 @@
 <details>
 <summary>1️⃣ Rangkai Alat seperti gambar berikut</summary>
 
-### You can add a header
+
 
 ![Fantastic Jarv-Vihelmo (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/f5e8e3f7-fded-4d0d-9084-83b9bb0939e9)
 </details>
 
 <details>
-<summary>3️⃣ Mendapatkan Alamat i2c dari LCD</summary>
+<summary>2️⃣ Mendapatkan Alamat i2c dari LCD</summary>
+
+### Jalankan Kode berikut di Arduino IDE setelah merangkai alat
 
   ```C++
 #include <Wire.h>
