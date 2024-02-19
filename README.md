@@ -1,4 +1,5 @@
 # Menampilkan Text di LCD 16x2 I2C dengan Arduino UNO
+![IMG_9481 3 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/1a4dbe98-996e-408d-8b85-d5447d4f5b11)
 Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C menggunakan Arduino UNO. Di sini saya menggunakan Arduino UNO R4, namun kalian bisa menggunakan yang versi sebelumnya R3. 
 
 ## 📃 Komponen yang Diperlukan
@@ -21,7 +22,7 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 3. Pilih File zip yang sudah kamu download di langkah 1
 4. Klik Open dan jika berhasil akan muncul tulisan " Library installed "
 
-![IMG_9481 3 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/1a4dbe98-996e-408d-8b85-d5447d4f5b11)
+
 
 ![IMG_9480 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/ff68bd1a-85d1-4cd0-8ab8-5bae5c07b902)
 
