@@ -16,7 +16,7 @@
 
 
 <details>
-<summary>1. Rangkai Alat seperti gambar berikut</summary>
+<summary>🔵 1. Rangkai Alat seperti gambar berikut</summary>
 
 ### You can add a header
 
