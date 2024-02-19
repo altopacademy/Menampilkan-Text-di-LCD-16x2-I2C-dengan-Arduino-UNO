@@ -18,8 +18,40 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 ![IMG_9480 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/ff68bd1a-85d1-4cd0-8ab8-5bae5c07b902)
 
 ## 🗺️ Source Code
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```C++
+/*********
+  
+*********/
+
+#include <LiquidCrystal_I2C.h>
+
+// set the LCD number of columns and rows
+int lcdColumns = 16;
+int lcdRows = 2;
+
+// set LCD address, number of columns and rows
+// if you don't know your display address, run an I2C scanner sketch
+LiquidCrystal_I2C lcd(0x27, lcdColumns, lcdRows);  
+
+void setup(){
+  // initialize LCD
+  lcd.init();
+  // turn on LCD backlight                      
+  lcd.backlight();
+}
+
+void loop(){
+  // set cursor to first column, first row
+  lcd.setCursor(0, 0);
+  // print message
+  lcd.print("Selamat pagii");
+  delay(1000);
+  // clears the display to print new message
+  lcd.clear();
+  // set cursor to first column, second row
+  lcd.setCursor(1,1);
+  lcd.print("Semangat senin !!");
+  delay(1000);
+  lcd.clear(); 
+}
 ```
