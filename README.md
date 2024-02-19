@@ -70,7 +70,7 @@ void loop() {
   delay(5000);          
 }
 ```
-
+### Setelah berhasil upload, buka serial monitor untuk melihat hasil nya
 ![Screenshot 2024-02-19 at 12 25 22](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/bce8a980-e0d6-47a5-9916-db648087d6cc)
 
 </details>
