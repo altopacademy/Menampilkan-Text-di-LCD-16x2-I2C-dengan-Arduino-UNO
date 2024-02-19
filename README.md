@@ -22,6 +22,7 @@
 
 <details>
 <summary>1️⃣ Rangkai Alat seperti gambar berikut</summary>
+
 | LCD I2C | Arduino UNO |
 | --- | --- |
 | VCC | 5V |
