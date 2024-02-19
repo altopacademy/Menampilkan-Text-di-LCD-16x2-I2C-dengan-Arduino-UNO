@@ -12,9 +12,18 @@ Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C mengg
 
 ## Tahapan Pengerjaan
 
-## 1. Skema Rangkaian Alat
+
+<details>
+
+<summary>Rangkai Alat seperti gambar berikut</summary>
+
+### You can add a header
 
 ![Fantastic Jarv-Vihelmo (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/f5e8e3f7-fded-4d0d-9084-83b9bb0939e9)
+
+</details>
+
+
 
 ## 2. Install Library LiquidCrystal_i2c
 1. Download librari nya di [sini](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE)
@@ -54,18 +63,4 @@ void loop(){
 
 ## 4. Upload Source Code yang sudah kamu tulis di Arduino IDE
 
-<details>
 
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
