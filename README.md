@@ -1,4 +1,5 @@
 # Menampilkan Text di LCD 16x2 I2C dengan Arduino UNO
+Halo semuanya, kali ini kita akan belajar menampilkan text di LCD 16x2 I2C menggunakan Arduino UNO. Di sini saya menggunakan Arduino UNO R4, namun kalian bisa menggunakan yang versi sebelumnya R3. 
 
 ## 📃 Komponen yang Diperlukan
 1. After installing the libraries add your Binance API key and secret in the config.py file.
