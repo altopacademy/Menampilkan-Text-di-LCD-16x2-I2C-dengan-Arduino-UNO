@@ -91,7 +91,7 @@ void loop() {
 </details>
 
 <details>
-<summary>3️⃣ Tulis Source Code nya di Arduino IDE</summary>
+<summary>3️⃣ Tulis Kode Utama berikut di Arduino IDE</summary>
 
   ```C++
 #include <LiquidCrystal_I2C.h>
@@ -113,6 +113,11 @@ void loop(){
   lcd.clear(); 
 }
 ```
+
+</details>
+
+<details>
+<summary>3️⃣ Upload Kode yang sudah kamu tulis di Arduino IDE</summary>
 
 </details>
 
