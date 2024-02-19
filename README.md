@@ -69,7 +69,7 @@ void loop(){
 
 ## 4. Upload Source Code yang sudah kamu tulis di Arduino IDE
 
-> [!NOTE]
+> [!NOTdE]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
