@@ -9,8 +9,9 @@
 2. [Kabel Jumper Male to Female ](https://shope.ee/5V7BLyRKg1?share_channel_code=2)
 4. [ LCD ](https://shope.ee/20XJBdpQrD?share_channel_code=2)
 
-## 📃 Software yang Digunakan
+## 📃 Software dan Librari yang digunakan
 1. [ Arduino IDE](https://www.arduino.cc/en/software)
+2. [Library LiquidCrystal_i2c](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE)
 
 ## 📥 Tahapan Pengerjaan
 
@@ -70,7 +71,7 @@ void loop() {
   delay(5000);          
 }
 ```
-### Setelah berhasil upload, buka serial monitor untuk melihat hasil nya
+### Setelah berhasil upload, buka serial monitor untuk melihat hasil nya. 0x27 adakah alamat i2c nya. Copy dan paste alamat tersebut nanti di Kode Program Utama
 ![Screenshot 2024-02-19 at 12 25 22](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/bce8a980-e0d6-47a5-9916-db648087d6cc)
 
 </details>
@@ -81,7 +82,7 @@ void loop() {
 
 
 
-  - Download Librari nya di [sini](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE)
+  - Download Librari LiquidCrystal di atas
   - Masuk ke software Arduino IDE, pilih Sketch > Include Library > add .ZIP Library
   - 
 ![Screenshot 2024-02-19 at 11 28 19](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/8441bcdf-02bc-484c-887a-0226a1717a41)
