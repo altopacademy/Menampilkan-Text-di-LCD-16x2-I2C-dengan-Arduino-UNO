@@ -125,11 +125,11 @@ void loop(){
 
 </details>
 
-> [!WARNING]
-> Jika Kode tidak berjalan atau eror atau tidak muncul apa apa di LCD, pastikan mengecek beberapa hal berikut
-> 1. Library LiquidCrystall sudah di install
-> 2. Kabel SDA dan SCL tidak terbalik
-> 3. Putar kekanan atau kekiri Potensiometer berwarna biru yang ada dibelakang LCD
+## 🆘 Troubleshoot
+Jika Kode tidak berjalan atau eror atau tidak muncul apa apa di LCD, pastikan mengecek beberapa hal berikut
+1. Library LiquidCrystall sudah di install
+2. Kabel SDA dan SCL tidak terbalik
+3. Putar kekanan atau kekiri Potensiometer berwarna biru yang ada dibelakang LCD
 
 
 
