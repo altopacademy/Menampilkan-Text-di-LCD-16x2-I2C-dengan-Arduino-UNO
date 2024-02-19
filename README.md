@@ -15,6 +15,8 @@
 
 ## 📥 Tahapan Pengerjaan
 
+https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/blob/6cd3d9145b19c6d2f813aea9fedcbbe3a8eb74fb/sketch.ino#L1C1-L35C2
+
 
 <details>
 <summary>1️⃣ Rangkai Alat seperti gambar berikut</summary>
